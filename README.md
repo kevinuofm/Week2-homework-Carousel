@@ -50,3 +50,8 @@ Notes:
 - Did not get more time to finish all the optionals as I'm on my honeymoon. Submitting this for now, may update later.
 - Had trouble configuring the color for the page scroller.
 - still confused on the scrolling piece, when to add the arrows and what to set the size of the view, scrollview, images.
+Walkthrough of all user stories:
+
+![Video Walkthrough](Carousel- Kevin Zhu.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
